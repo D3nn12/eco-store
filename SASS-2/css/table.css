@@ -1,0 +1,72 @@
+nav{
+    padding-bottom: 30px;
+}
+nav img{
+    display: none;
+}
+nav .menu {
+    display: block;
+}
+nav .menu button{
+    background: none;
+    border: none;
+    margin-right: 15px;
+}
+
+
+
+.main-impact--section article {
+    flex-direction: row;
+    justify-content: center;
+}
+.main-impact--section article .impact-section{
+    width: 50%;
+    
+}
+.main-impact--section article .impact-img{
+    width: 40%;
+    height: 400px;
+}
+.main-impact--section article .impact-section p{
+    padding-bottom: 60px;
+}
+.main-impact--section article .impact-section button{
+    width: 20vw;
+    margin: 0;
+
+}
+
+.products .health-care .health-care-items{
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    column-gap:50px;
+    row-gap: 30px;
+    justify-content:center;
+}
+
+.products .furniture .health-care-items {
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    column-gap:50px;
+    row-gap: 30px;
+    justify-content:center;
+}
+
+.about-us .about-us--articles article{
+    flex-direction: row;
+}
+.about-us .about-us--articles{
+    display: flex;
+    justify-content: center;
+    column-gap: 60px;
+}
+.gallery .gallery-imgs{
+    flex-direction: row;
+    column-gap: 20px;
+    justify-content: center;
+}
+.gallery .gallery-imgs img{
+    height: 35vh;
+    width: 25vw;
+
+}

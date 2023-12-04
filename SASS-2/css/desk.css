@@ -1,0 +1,23 @@
+
+.main-impact--section article {
+    justify-content: space-evenly;
+}
+.main-impact--section article .impact-section{
+    width: 23%;
+}
+
+.products .health-care .health-care-items{
+    column-gap: 90px;
+}
+.about-us .about-us--articles {
+    justify-content: space-evenly;
+  
+}
+
+footer div{
+    display: flex;
+    justify-content: center;
+}
+footer div img{
+    width: 2vw;
+}
